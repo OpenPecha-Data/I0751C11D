@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W30032
   title: རྨ་ལྷོ་སོག་རྫོང་གི་རྩོམ་རིག་བརྩམས་ཆོས་བདམས་བསྒྲིགས
-  volume: ''
+  volume:
+    8f0f3dddb8ef4281aafcc9949ae86457:
+      image_group_id: I00EGS1017209
+      title: Volume 1 of rma lho sog rdzong gi rtsom rig brtsams chos bdams bsgrigs
+      volume_number: 1
+      total_pages: 430
   author: ''
+ebook_metadata:
+  title: རྨ་ལྷོ་སོག་རྫོང་གི་རྩོམ་རིག་བརྩམས་ཆོས་བདམས་བསྒྲིགས
+  author: ''
+  sku: P007967
+  cover: cover.jpg
+  layers:
+  - pagination
